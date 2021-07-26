@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MÓDULO AMPLIFICADOR TARAMPS DSP 1600 1600W RMS 1 CANAL",
+      "description": "O Módulo Amplificador Taramps DSP 1600 Digital Signal Processing é o primeiro amplificador a contar com um processador de áudio digital embutido.",
+      "image": "https://somautomotivobr.com.br/wp-content/uploads/m%C3%B3dulo-amplificador-taramps-dsp-1600-rms-1-canal.jpg",
+      "price": "508.90"
+    },
+    {
+      "id": 2,
+      "name": "FONTE TARAMPS TEF 120 A AMPERES C/ VOLTÍMETRO E AMPERÍMETRO BIVOLT",
+      "description": "As fontes de som automotivo transformam a corrente alternada 110v ou 220v em corrente contínua no voltagem de trabalho das baterias automotivas, de modo que ao serem ligadas, começam a carregá-las.",
+      "image": "https://static.lojadesomautomotivo.com.br/media/catalog/product/cache/1/image/500x600/9df78eab33525d08d6e5fb8d27136e95/f/o/fonte_taramps_tef_120a_amperes_bivolt_com_volt_metro_12_6_13_8_14_4.jpg",
+      "price": "600.00"
+    },
+    {
+      "id": 3,
+      "name": "ALTO FALANTE SUBWOOFER TRITON BASS 200 RMS 8 POLEGADAS",
+      "description": "O Alto Falante Subwoofer de 8 polegadas é ótimo quem quer um som automotivo interno com graves extensos sem ocupar muito espaço em seu veículo. Pode ser utilizado em caixas dutadas para grave mais fortes, ou em caixas seledas para maior qualidade sonora.",
+      "image": "https://static.lojadesomautomotivo.com.br/media/catalog/product/cache/1/image/500x600/9df78eab33525d08d6e5fb8d27136e95/a/l/alto_falante_subwoofer_triton_bass_200w_rms_8_polegadas.jpg",
+      "price": "224.90"
+    },
+    {
+      "id": 4,
+      "name": "ALTO FALANTE SUBWOOFER FB AUDIO 850 RMS 15 POLEGADAS",
+      "description": "O Alto Falante Subwoofer de 15 polegadas é ótimo quem quer um som automotivo interno com graves fortes e profundos. Devido ao seu tamanho, reproduz frequências baixas com facilidade e é uma ótima opção para quem quer disponibilizar bastante espaço para o sistema.",
+      "image": "https://static.lojadesomautomotivo.com.br/media/catalog/product/cache/1/image/500x600/9df78eab33525d08d6e5fb8d27136e95/a/l/alto_falante_subwoofer_fb_audio_800w_rms_15_polegadas.jpg",
+      "price": "1166.50"
+    },
+    {
+      "id": 5,
+      "name": "SUPER TWEETER DD DDST100",
+      "description": "O Super Tweeter DD apresenta além uma ótima relação Custo X Benefício, possui o mesmo reparo do Selenium St300, muito fácil de se encontrar.",
+      "image": "https://static.lojadesomautomotivo.com.br/media/catalog/product/cache/1/image/500x600/9df78eab33525d08d6e5fb8d27136e95/s/u/super_tweeter_dd_digital_designs_100_..jpg",
+      "price": "92.02"
+    },
+    {
+      "id": 6,
+      "name": "CONTROLE STETSOM LONGA DISTÂNCIA SX1 500 METROS ALCANCE CONTROL",
+      "description": "O novo Controle Stetsom longa distância SX1 500 metros Alcance Control além de ser pequeno e prático, possui uma capa de silicone que o deixa resistente à impactos e quedas, além de proporcionar um design mais bonito e elegante.",
+      "image": "https://static.lojadesomautomotivo.com.br/media/catalog/product/cache/1/thumbnail/500x600/9df78eab33525d08d6e5fb8d27136e95/c/o/controle_stetsom_alcance_control_200_metros_2_13.jpg",
+      "price": "74.40"
+    },
+    {
+      "id": 7,
+      "name": "VOLTÍMETRO STETSOM VT4 DIGITAL ALTA VOLTAGEM",
+      "description": "Para que serve um voltímetro? Serve para medir a tensão (popular 'voltagem') das baterias do carro, que têm valor normal de uso de 12,6v (com carga e em boas condições).",
+      "image": "https://static.lojadesomautomotivo.com.br/media/catalog/product/cache/1/image/500x600/9df78eab33525d08d6e5fb8d27136e95/v/o/voltimetro-digital-vt-4-stetsom-1.jpg",
+      "price": "110.00"
+    },
+    {
+      "id": 8,
+      "name": "ALARME AUTOMOTIVO STETSOM EVOLUTION I-MOVE",
+      "description": "Você já conhece a história da Stetsom e sua trajetória de mais de 27 anos no segmento de Som Automotivo. Sabe de suas conquistas como “Ganhadora do Prêmio de Melhor Amplificador e Melhor Antena em 2014 e 2015 pelo Prêmio Marca Brasil.",
+      "image": "https://static.lojadesomautomotivo.com.br/media/catalog/product/cache/1/image/500x600/9df78eab33525d08d6e5fb8d27136e95/a/l/alarme_automotivo_stetsom_evolution_i-move.jpg",
+      "price": "149.90"
+    }
+
+  ]
+}

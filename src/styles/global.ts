@@ -7,22 +7,11 @@ export const GlobalStyle = createGlobalStyle`
       box-sizing: border-size;
   }
 
-  html {
-    width: 100vw;
-    height: 100%;
-
-    display: flex;
-    justify-content: center;
-  }
-
   body { 
     max-width: 1440px;
     height: 100%;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
+    margin: 0 auto;
     background-color: #f7f7f7;
 
     font-family: "Montserrat", Helvetica, sans-serif;

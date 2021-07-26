@@ -17,6 +17,11 @@ type ButtonType = ButtonHTMLAttributes<HTMLButtonElement>
 export const Header: React.FC = (
   { ...rest }: InputType,
   { ...restButton }: ButtonType) => {
+
+   function handleInputText(value: string) {
+      return value
+    }
+
   return (
     <Container>
       <Wrapper>
@@ -28,6 +33,7 @@ export const Header: React.FC = (
               {...rest}
               type="search"
               placeholder="Pesquisar produtos"
+              onChange={(e) => handleInputText(e.target.value)}
             />
 
             <Button
